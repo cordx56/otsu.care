@@ -1,0 +1,14 @@
+{
+  "name": "otsu.care",
+  "version": "1.0.0",
+  "description": "お疲れ様です。",
+  "repository": "https://github.com/cordx56/otsu.care.git",
+  "author": "Kaoru Chisen <cordx56@cordx.net>",
+  "private": true,
+  "scripts": {
+    "serve": "serve public"
+  },
+  "devDependencies": {
+    "serve": "^11.3.2"
+  }
+}
